@@ -16,7 +16,6 @@
 
 alldeleted명령을 위한 텍스트 파일인 " to_be_deleted_words.txt " 에서
 중복된 단어를 제거하기 위하여 " deletefind()"라는 함수를 만들었습니다.
-중복되는 단어들이 제거가 된 상태로 alldeleted 과정을 거쳐 size를 체크하여, 
-그부분의 갯수를 빼 계산하였습니다:)
+중복되는 단어들이 제거가 된 상태로 alldeleted 과정을 거쳐 size를 체크하였습니다:)
 
 
